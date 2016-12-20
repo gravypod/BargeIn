@@ -34,7 +34,7 @@
 	"email": {
 		"host": "smtp.gmail.com",
 		"port": 587,
-		"user": "",
+		"user": " ",
 		"pass": "",
 		"subject": "Daily bargain search results"
 	}
