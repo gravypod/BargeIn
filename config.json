@@ -30,6 +30,13 @@
 	"has_pic": 1,
 	"posted_today": 1,
 	"distance": 40,
-	"contact": []
+	"contact": [],
+	"email": {
+		"host": "smtp.gmail.com",
+		"port": 587,
+		"user": "",
+		"pass": "",
+		"subject": "Daily bargain search results"
+	}
 }
 
