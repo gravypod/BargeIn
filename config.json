@@ -1,0 +1,35 @@
+{
+	"location": "newjersey",
+	"items": [
+		{
+			"name": "Thinkpad Tablet",
+			"terms": [
+				"x220",
+				"thinkpad",
+				"x220t",
+				"tablet"
+			],
+			"price": 200,
+			"section": "sya"
+		},
+		{
+			"name": "Vintage Computer",
+			"terms": [
+				"commodore",
+				"vintage",
+				"DOS",
+				"DIGITAL",
+				"macintosh",
+				"collectable"
+			],
+			"price": 100,
+			"section": "sya"
+		}
+	],
+	"postal": "07410",
+	"has_pic": 1,
+	"posted_today": 1,
+	"distance": 40,
+	"contact": []
+}
+
